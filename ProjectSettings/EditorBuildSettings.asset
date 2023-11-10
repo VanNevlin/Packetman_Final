@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0. MainMenu.unity
+    guid: 69abfde7f119b3848bc8e92ad997f3de
+  - enabled: 1
+    path: Assets/Scenes/Level 1/1. Email Level Loading.unity
+    guid: 30e7c20a65361e74da72a04513e5f6ce
+  - enabled: 1
+    path: Assets/Scenes/Level 1/2. Level 1 - 1.unity
+    guid: bfc41382839ee3a46934515d646ec5f9
+  - enabled: 1
+    path: Assets/Scenes/Level 1/3. PC to Router.unity
+    guid: e8968a71c86fb85459080050b6a48bfa
+  - enabled: 1
+    path: Assets/Scenes/Level 1/4. Level 1 - 2.unity
+    guid: 22b1582047ea7b946b4f7fec44a91ed0
+  - enabled: 1
+    path: Assets/Scenes/Level 1/5. Router to Server.unity
+    guid: 52cf861d3c6cec740a79e46133febf24
+  - enabled: 1
+    path: Assets/Scenes/Level 1/6. Level 1 - 3.unity
+    guid: 368bbce30e01dc749a23526d67d0ab5e
+  - enabled: 1
+    path: Assets/Scenes/Level 1/7. Server To Router.unity
+    guid: c11bcb480d7cab34b896d37c48552396
+  - enabled: 1
+    path: Assets/Scenes/Level 1/8. Level 1 - 4.unity
+    guid: 0df5aa9745bbfed4cb265c3fd001cf97
+  - enabled: 1
+    path: Assets/Scenes/Level 1/9. Router To PC.unity
+    guid: b94fe2a32d42b4b49b72089e689a5719
+  - enabled: 1
+    path: Assets/Scenes/Level 1/10. Level 1 - 5.unity
+    guid: c6301839e02b7ae488a6b27b2f62d688
+  - enabled: 1
+    path: Assets/Scenes/11. WinScene.unity
+    guid: f39a743c8a367af4290fa87893eb8b5d
+  - enabled: 1
+    path: Assets/Scenes/12. Filler.unity
+    guid: 37a77a82a8c0a44499ad2ade010052d0
+  - enabled: 1
+    path: Assets/Scenes/Level 2/13. Loading 2-1.unity
+    guid: d63d4eb8c7529f74e9523d2044c71d5c
+  - enabled: 1
+    path: Assets/Scenes/Level 2/14. Level 2-1.unity
+    guid: fe3f66881d7fe454e9e40e2aa60e0c3f
+  - enabled: 1
+    path: Assets/Scenes/Level 2/15. Loading 2-2.unity
+    guid: 40fedc14d336e8f448830f59216f3040
+  - enabled: 1
+    path: Assets/Scenes/Level 2/16. Level 2-2.unity
+    guid: 4a28fdec97efa5e4bb239550e200315e
+  - enabled: 1
+    path: Assets/Scenes/Level 2/17. Loading 2-3.unity
+    guid: 50279bb5335797d4da2da42449b3220a
+  - enabled: 1
+    path: Assets/Scenes/Level 2/18. Level 2-3.unity
+    guid: 222dd325537cdcd4f9480c2900e2d012
+  - enabled: 1
+    path: Assets/Scenes/Level 2/19. Loading 2-4.unity
+    guid: 7c593aebfe350344a8f0b709c64dd0bb
+  - enabled: 1
+    path: Assets/Scenes/Level 2/20. Level 2-4.unity
+    guid: 51ee2ab69fa33434887b57e7c7aa6dd6
+  m_configObjects: {}
